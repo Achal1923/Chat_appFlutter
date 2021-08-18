@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295669454572",
+    "project_id": "flash-chat-d1f42",
+    "storage_bucket": "flash-chat-d1f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295669454572:android:711c5463adddb2d104f7c9",
+        "android_client_info": {
+          "package_name": "com.achal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295669454572-61nobe3o1jsmm4c61kbi4kl1mggihonj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWSXp1P_5eMywEbX7C2Gfha3vOPlQRCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295669454572-61nobe3o1jsmm4c61kbi4kl1mggihonj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
